@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (usually not tracked)
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Outputs
+outputs/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
